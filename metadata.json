@@ -1,0 +1,6 @@
+{
+  "name": "Full Moon",
+  "description": "An AI-powered shared memory journal for long-distance relationships and families. Creates a night sky of memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
